@@ -43,8 +43,15 @@ body {
 }
 
 .newscard {
-    font-family: Robotobold;
+    font-family: Robotoconb;
     color: white;
     text-align: center;
+    padding-top: 15px;
 }
 
+.card-group {
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 50px;
+}
