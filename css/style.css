@@ -4,6 +4,7 @@ nav {
 
 body {
     background-color: rgb(34, 34, 34);
+    width: auto;
 }
 
 .welcome {
@@ -38,4 +39,10 @@ body {
     padding-top: 70px;
     text-align: center;
     font-family: Robotoconb;
+}
+
+.newscard {
+    font-family: Robotobold;
+    color: white;
+    text-align: center;
 }
