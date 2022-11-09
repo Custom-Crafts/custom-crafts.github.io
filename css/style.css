@@ -61,4 +61,7 @@ body {
     color: white;
 }
 
-
+.nav-item img {
+    scale: 100px;
+    padding-right: 10px;
+}
