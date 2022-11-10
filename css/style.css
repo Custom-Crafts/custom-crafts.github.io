@@ -81,3 +81,15 @@ body {
         padding-top: 15px;
         text-decoration: underline;
 }
+
+.form-select {
+    color: white;
+    background-color: rgb(39, 39, 39);
+}
+
+.order {
+    font-family: Robotoconb;
+    color: white;
+    padding-left: 20px;
+    text-decoration: underline;
+}
