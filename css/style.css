@@ -73,3 +73,11 @@ body {
     padding-top: 15px;
     text-decoration: overline;
 }
+
+.copy {
+        font-family: Robotoconb;
+        color: white;
+        text-align: center;
+        padding-top: 15px;
+        text-decoration: underline;
+}
