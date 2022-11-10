@@ -65,3 +65,11 @@ body {
     scale: 100px;
     padding-right: 10px;
 }
+
+.bundleview {
+    font-family: Robotoconb;
+    color: white;
+    text-align: center;
+    padding-top: 15px;
+    text-decoration: overline;
+}
