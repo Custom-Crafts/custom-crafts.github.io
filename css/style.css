@@ -59,6 +59,7 @@ body {
 .card {
     background-color: rgb(48, 48, 48);
     color: white;
+    padding-right: -5px;
 }
 
 .nav-item img {
@@ -92,4 +93,9 @@ body {
     color: white;
     padding-left: 20px;
     text-decoration: underline;
+}
+
+.dropdown-menu {
+    color: white;
+    background-color: rgb(39, 39, 39);
 }
