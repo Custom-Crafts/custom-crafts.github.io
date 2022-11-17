@@ -104,3 +104,11 @@ body {
     padding-bottom: 10px;
     text-decoration: underline;
 }
+
+.bundle_name {
+    font-family: Robotoconb;
+    color: white;
+    text-align: center;
+    padding-top: 55px;
+    text-decoration: overline;
+}
