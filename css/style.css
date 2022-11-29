@@ -112,3 +112,7 @@ body {
     padding-top: 55px;
     text-decoration: overline;
 }
+
+.form-control {
+    background-color: rgb(39, 39, 39);
+}
