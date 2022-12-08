@@ -116,3 +116,11 @@ body {
 .form-control {
     background-color: rgb(39, 39, 39);
 }
+
+.pp {
+    color: white;
+    font-family: Robotoconb;
+    padding-top: 25px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
