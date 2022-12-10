@@ -124,3 +124,13 @@ body {
     padding-left: 20px;
     padding-right: 20px;
 }
+
+.thanks {
+    color: white;
+    font-family: Robotoconb;
+    padding-top: 25px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+    text-decoration: none;
+}
