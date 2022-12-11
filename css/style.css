@@ -134,3 +134,18 @@ body {
     text-align: center;
     text-decoration: none;
 }
+
+
+.btn-submit {
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    font-family: Robotoconb;
+}
+
+.form-text-box {
+    color: black;
+    background-color: white;
+    border-radius: 10px;
+    font-family: Robotoconb;
+}
