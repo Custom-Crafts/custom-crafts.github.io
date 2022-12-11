@@ -134,3 +134,22 @@ body {
     text-align: center;
     text-decoration: none;
 }
+
+.ad {
+    color: white;
+    font-family: Robotoconb;
+    padding-top: 25px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+}
+
+.an {
+    padding-bottom: 10px;
+    padding-top: 70px;
+    padding-right: 15px;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    font-family: Robotoconb;
+}
